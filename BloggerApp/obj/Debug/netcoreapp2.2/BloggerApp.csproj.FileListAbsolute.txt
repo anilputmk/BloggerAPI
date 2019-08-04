@@ -1,0 +1,14 @@
+/Users/anilp/Projects/BloggerApp/BloggerApp/bin/Debug/netcoreapp2.2/BloggerApp.deps.json
+/Users/anilp/Projects/BloggerApp/BloggerApp/bin/Debug/netcoreapp2.2/BloggerApp.runtimeconfig.json
+/Users/anilp/Projects/BloggerApp/BloggerApp/bin/Debug/netcoreapp2.2/BloggerApp.runtimeconfig.dev.json
+/Users/anilp/Projects/BloggerApp/BloggerApp/bin/Debug/netcoreapp2.2/BloggerApp.dll
+/Users/anilp/Projects/BloggerApp/BloggerApp/bin/Debug/netcoreapp2.2/BloggerApp.pdb
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.csprojAssemblyReference.cache
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.csproj.CoreCompileInputs.cache
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.RazorAssemblyInfo.cache
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.RazorAssemblyInfo.cs
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.AssemblyInfoInputs.cache
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.AssemblyInfo.cs
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.RazorTargetAssemblyInfo.cache
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.dll
+/Users/anilp/Projects/BloggerApp/BloggerApp/obj/Debug/netcoreapp2.2/BloggerApp.pdb
